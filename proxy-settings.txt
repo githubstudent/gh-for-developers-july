@@ -1,0 +1,4 @@
+# If on VPN:
+
+git config --global http.proxy http://http-proxy.ae.ge.com:80
+git config --global https.proxy https://http-proxy.ae.ge.com:80
